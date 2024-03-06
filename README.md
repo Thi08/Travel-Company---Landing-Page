@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img src="./.github/landing-page.png" alt="Page Layout" width="400px">
+    <img src="./.github/landingpage.png" alt="Page Layout" width="400px">
 </p>
 
 <h2 id="started">📌 Link do projeto</h2>
