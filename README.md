@@ -38,7 +38,7 @@ Como clonar meu projeto
 
 ```bash
 git clone [https://github.com/Thi08/Travel-Company---Landing-Page]
-cd lading-page
+cd Travel-Company---Landing-Page
 ```
 
 <h3>Começando</h3>
