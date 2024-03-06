@@ -1,27 +1,54 @@
-# LandingPage
+[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
+[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
+[ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
+[PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
+[PROJECT__URL]: https://landing-page-ssr.vercel.app/
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
+<h1 align="center" style="font-weight: bold;">Landing Page w/ SSR</h1>
 
-## Development server
+![angular][ANGULAR__BADGE]
+![typescript][TYPESCRIPT__BADGE]
+![javascript][JAVASCRIPT__BADGE]
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center">
+ <a href="#about">Link do projeto</a> • 
+ <a href="#started">Como começar</a> • 
+</p>
 
-## Code scaffolding
+<p align="center">
+    <img src="./.github/landing-page.png" alt="Page Layout" width="400px">
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h2 id="started">📌 Link do projeto</h2>
 
-## Build
+[![project][PROJECT__BADGE]][PROJECT__URL]
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<h2 id="started">🚀 Como começar</h2>
 
-## Running unit tests
+<h3>Pré-requisitos</h3>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Para rodar o projeto é necessário ter as seguintes tecnologias instaladas em seu computador.
 
-## Running end-to-end tests
+- [NodeJS](https://github.com/)
+- [Git 2](https://github.com)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<h3>Clonando</h3>
 
-## Further help
+Como clonar meu projeto
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+git clone [https://github.com/Thi08/Travel-Company---Landing-Page]
+cd lading-page
+```
+
+<h3>Começando</h3>
+
+Após isso, instale as dependências necessárias.
+
+```bash
+npm install
+npm start
+```
+
+Esse projeto foi inspirado na aula de Angular da Fernanda Kipper, no vídeo [Youtube Channel](https://www.youtube.com/live/O26fDEnAukY?si=8OjYdSyhlAuNUSa_)
+
