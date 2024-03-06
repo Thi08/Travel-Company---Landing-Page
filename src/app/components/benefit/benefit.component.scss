@@ -1,0 +1,49 @@
+@import "../../../color-variables.scss";
+
+.benefit-card {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 15px;
+
+    img{
+        width: 100%;
+        height: auto;
+        border-radius: 15px 15px 0 0 ;
+    }
+    h5 {
+       font-size: 24px;
+       font-weight: 600;
+       margin: 0;
+       color: $primary-text;
+       padding: 5px 10px;
+    }
+
+    p {
+        font-size: 14px;
+        font-weight: 400;
+        color: $secondary-text;
+        padding: 5px 10px;
+    }
+    
+    .price{
+        font-size: 26px;
+        font-weight: 700;
+    }
+}
+
+@media (min-width: 768px) {
+    .benefit-card {
+        max-width: 600px;
+
+        h5 {
+            font-size: 32px;
+        }
+
+        p {
+            font-size: 16px;
+        }
+    }
+}
